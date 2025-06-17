@@ -17,10 +17,10 @@ Have a look at my contributions to open-source projects below
 
 ---
 
-![](https://komarev.com/ghpvc/?username=PRATAP-KUMAR)
+![](https://komarev.com/ghpvc/?username=pratap-panabaka)
 
-[![variable](https://github-readme-stats.vercel.app/api?username=PRATAP-KUMAR&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![variable](https://github-readme-stats.vercel.app/api?username=pratap-panabaka&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![variable](http://github-readme-streak-stats.herokuapp.com?user=PRATAP-KUMAR&theme=merko)](https://git.io/streak-stats)
+[![variable](http://github-readme-streak-stats.herokuapp.com?user=pratap-panabaka&theme=merko)](https://git.io/streak-stats)
 
-[![variable](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATAP-KUMAR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![variable](https://github-readme-stats.vercel.app/api/top-langs/?username=pratap-panabaka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
