@@ -21,6 +21,6 @@ Have a look at my contributions to open-source projects below
 
 [![count](https://github-readme-stats.vercel.app/api?username=pratap-panabaka&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pratap-panabaka)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratap-panabaka)](https://git.io/streak-stats)
 
 [![author](https://github-readme-stats.vercel.app/api/top-langs/?username=pratap-panabaka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
