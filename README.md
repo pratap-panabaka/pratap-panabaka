@@ -1,7 +1,5 @@
 ### Hi, I am PRATAP PANABAKA, Full Stack Developer & open-source software developer, Linux enthusiast.
-- Software Development Program - <a href='https://microverse.org'>Microverse Inc, San Francisco - Full Time - Fully Remote</a>
-- Good with JavaScript, ReactJS, NextJS, NodeJS and ExpressJS.
-- Open-source software developer - created and maintaining gnome-shell extensions since 2018.
+
 ![full-stack-web-development](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
 
 ---
