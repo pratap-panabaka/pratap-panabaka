@@ -1,4 +1,4 @@
-### Hi, I am PRATAP PANABAKA, Full Stack Developer & open-source software developer, Linux enthusiast.
+## Hi, I am PRATAP PANABAKA, Full Stack Developer & open-source software developer, Linux enthusiast.
 
 ![full-stack-web-development](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
 
