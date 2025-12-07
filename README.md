@@ -1,7 +1,18 @@
 ## Hi, I am PRATAP PANABAKA, Full Stack JavaScript Developer and Linux enthusiast.
 
-<img width="617" height="538" alt="about" src="https://github.com/user-attachments/assets/377c43bf-8b29-4029-b843-49cc5ac56240" />
+```js
+const me = {
+    name: "Pratap Panabaka",
+    role: "Full Stack JavaScript Dev",
+    lang: "JavaScript",
+};
 
+Object.freeze(me);
+
+Object.values(me).forEach((value) => {
+    console.log(value);
+});
+```
 ---
 
 #### JavaScript | ReactJS | NextJS | NodeJS | ExpressJS | Tailwind CSS
