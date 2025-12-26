@@ -5,7 +5,7 @@
   <h3><strong>JavaScript | ReactJS | NextJS | NodeJS | ExpressJS | Tailwind CSS</strong></h3>
 
   <p>
-    <a target="_blank" href="https://pratap-panabaka.vercel.app"><strong>🌐 Portfolio</strong></a>
+    <a target="_blank" href="https://pratap-panabaka.in"><strong>🌐 Portfolio</strong></a>
   </p>
 
 </div>
