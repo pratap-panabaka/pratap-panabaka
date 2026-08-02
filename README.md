@@ -1,11 +1,42 @@
-<div align="center">
+# Pratap Panabaka
 
-  <h1><strong>Pratap Panabaka</strong></h1>
-  <h2><strong>Full Stack JavaScript Developer</strong></h2>
-  <h3><strong>JavaScript | ReactJS | NextJS | NodeJS | ExpressJS | Tailwind CSS</strong></h3>
+### Software Engineer | React & Frontend Architecture | Enterprise Applications | Open Source
 
-  <p>
-    <a target="_blank" href="https://pratap-panabaka.in"><strong>🌐 Portfolio</strong></a>
-  </p>
+I build enterprise web applications, configurable frontend systems, and reusable software architecture.
 
-</div>
+Currently developing a **Clinical Research Platform** supporting oncology workflows through dynamic electronic Case Report Forms (eCRFs), workflow-driven interfaces, and Spring Boot integrations.
+
+I also contribute to the **Linux and GNOME ecosystem**, building desktop extensions and open-source tools used by developers and Linux users across multiple distributions.
+
+## What I'm focused on
+
+* Enterprise React applications
+* Frontend architecture
+* Dynamic EAV/eCRF systems
+* Reusable component systems
+* Performance optimization
+* GNOME & Linux open-source development
+
+## Featured work
+
+### Clinical Research Platform
+
+Configurable React and Spring Boot platform supporting oncology research workflows through dynamic eCRF systems and reusable frontend architecture.
+
+### GDM Extension (GNOME Shell)
+
+GNOME Shell extension for login-screen customization with support for wallpapers, themes, blur effects, fonts, icons, and branding.
+
+**77+ GitHub stars** • **10+ forks**
+
+## Open source
+
+* 23K+ reputation on AskUbuntu
+* 8+ years contributing to Linux and GNOME
+* Multiple GNOME Shell extensions used across the open-source community
+
+## Connect
+
+* Portfolio: https://pratap-panabaka.in
+* LinkedIn: https://linkedin.com/in/pratap-panabaka
+* GNOME Extensions: https://extensions.gnome.org/accounts/profile/pratap-panabaka
