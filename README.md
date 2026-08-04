@@ -1,38 +1,24 @@
-# Pratap Panabaka
+# Pratap Kumar Panabaka
 
-### Software Engineer | React, Next.js & Frontend Architecture | Enterprise Applications | Open Source Engineering
-I build enterprise web applications, configurable frontend systems, and reusable software architecture.
+Software Engineer focused on React, Next.js, frontend architecture, enterprise applications, and open-source engineering.
 
-Currently developing a **Clinical Research Platform** supporting oncology workflows through dynamic electronic Case Report Forms (eCRFs), workflow-driven interfaces, and Spring Boot integrations.
+Currently building a Clinical Research Platform with configurable eCRF systems, reusable component architecture, and workflow-driven interfaces.
 
-I also contribute to the **Linux and GNOME ecosystem**, building desktop extensions and open-source tools used by developers and Linux users across multiple distributions.
+## Focus areas
 
-## What I'm focused on
-
-* Enterprise React applications
 * Frontend architecture
-* Dynamic EAV/eCRF systems
-* Reusable component systems
+* React & Next.js
+* Enterprise UI systems
 * Performance optimization
-* GNOME & Linux open-source development
-
-## Featured work
-
-### Clinical Research Platform
-
-Configurable React and Spring Boot platform supporting oncology research workflows through dynamic eCRF systems and reusable frontend architecture.
-
-### GDM Extension (GNOME Shell)
-
-GNOME Shell extension for login-screen customization with support for wallpapers, themes, blur effects, fonts, icons, and branding.
-
-**77+ GitHub stars** • **10+ forks**
+* Linux & GNOME open source
 
 ## Open source
 
-* 23K+ reputation on AskUbuntu
-* 8+ years contributing to Linux and GNOME
-* Multiple GNOME Shell extensions used across the open-source community
+* GDM Extension (GNOME Shell)
+* AskUbuntu: 23K+ reputation
+* 452 technical answers
+* 2.5M+ contribution views
+
 
 ## Connect
 
