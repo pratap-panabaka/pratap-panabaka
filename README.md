@@ -1,7 +1,6 @@
 # Pratap Panabaka
 
-### Software Engineer | React & Frontend Architecture | Enterprise Applications | Open Source
-
+### Software Engineer | React, Next.js & Frontend Architecture | Enterprise Applications | Open Source Engineering
 I build enterprise web applications, configurable frontend systems, and reusable software architecture.
 
 Currently developing a **Clinical Research Platform** supporting oncology workflows through dynamic electronic Case Report Forms (eCRFs), workflow-driven interfaces, and Spring Boot integrations.
